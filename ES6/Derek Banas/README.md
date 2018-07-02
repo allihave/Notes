@@ -1,4 +1,7 @@
 
+### Notes for ECMAScript 6 Tutorial by Derek Banas
+### https://www.youtube.com/watch?v=Jakoi0G8lBg
+
 ---
 
 ### let
