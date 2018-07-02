@@ -1,3 +1,9 @@
+
+### Notes for ES6 Javascript: The Complete Developer's Guide by Stephen Grider 
+### https://www.udemy.com/javascript-es6-tutorial/
+
+---
+
 ### Array Helper Methods
 
 * `forEach`
