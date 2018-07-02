@@ -1,8 +1,4 @@
-
-### Notes for ES6 Javascript: The Complete Developer's Guide by Stephen Grider 
-### https://www.udemy.com/javascript-es6-tutorial/
-
----
+# Notes for [ES6 Javascript: The Complete Developer's Guide](https://www.udemy.com/javascript-es6-tutorial/) by Stephen Grider 
 
 ### Array Helper Methods
 
