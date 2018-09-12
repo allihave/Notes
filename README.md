@@ -1,3 +1,3 @@
 # Notes
 
-Various notes & cheatsheets
+Various notes and cheatsheets
